@@ -40,4 +40,4 @@ if (require.main === module) {
   console.log("=>", hasTargetSum([1, 2, 5], 4));
 }
 
-module.exports = hasTargetSum;
+module.exports = hasTargetSum;git 
